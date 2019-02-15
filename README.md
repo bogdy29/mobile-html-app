@@ -1,5 +1,4 @@
-#dn-project
-
+#portal-app
 git clone
 npm run install
 open index.html from /dist foder
